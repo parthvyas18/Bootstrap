@@ -35,3 +35,15 @@ body{
 .navbar-dark {
      background-color: #512DA8;
 }
+#card
+{
+    background-color: yellow;
+}
+#table
+{
+    background-color: rgb(189, 177, 73);
+}
+.card
+{
+    margin: 10px;
+}
